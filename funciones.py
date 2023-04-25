@@ -162,6 +162,7 @@ def informes_alta():
     baja_mujeres()
     salario1()
     edades1()
+    #Metdoso 
 #Metodo que calcula los salarios mensuales / incompleto
 def calcular_edades():
     print("")
